@@ -53,6 +53,7 @@ This project helps transform raw financial data into **actionable insights for d
 **1. Optimal Number of Clusters**
 
 The Elbow Method showed that **k=4** was the most suitable choice.
+![Elbow Method](Results/elbow_method.png)
 
 
 **2. Stock Clusters (Risk vs Return)**
