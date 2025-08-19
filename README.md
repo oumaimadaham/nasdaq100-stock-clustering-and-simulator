@@ -98,7 +98,8 @@ The interactive simulator allows you **to test investment strategies:**
 
 **Example:**
 
-![Simulator](results/investment_simulator.png)
+![Simulator](Results/investment_simulator.png)
+![Simulator2](Results/investment_simulator2.png)
 
 
 - $10,000 in AAPL (Defensive / Low Return) over 252 days may yield ~$1,216.00
