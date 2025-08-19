@@ -20,7 +20,9 @@ This project helps transform raw financial data into **actionable insights for d
 
 - Stock prices downloaded using **`yfinance`**
 
-- Period covered: 2022-01-01 to 2024-12-31
+- Period covered: **2022-01-02 to 2024-12-31**
+
+  ![Data](Data/Dataset.PNG)
 
 **2. Feature Engineering**
 
