@@ -49,23 +49,25 @@ This project helps transform raw financial data into **actionable insights for d
 - See expected returns & cluster profile
 
 ## Results & Outputs
-1. Optimal Number of Clusters
 
-The Elbow Method showed that k=4 was the most suitable choice.
+**1. Optimal Number of Clusters**
+
+The Elbow Method showed that **k=4** was the most suitable choice.
 
 
-2. Stock Clusters (Risk vs Return)
+**2. Stock Clusters (Risk vs Return)**
 
 Using PCA, stocks were projected in 2D space. Each color shows a different cluster:
 
 
-Stable Performers → Consistent but moderate growth
+- **Stable Performers →** Consistent but moderate growth
 
-High Growth, High Risk → Potentially large gains but very volatile
+- **High Growth, High Risk →** Potentially large gains but very volatile
 
-Speculative / Volatile → Extremely unstable, unpredictable stocks
+- **Speculative / Volatile →** Extremely unstable, unpredictable stocks
 
-Defensive / Low Return → Safe but with limited growth
+- **Defensive / Low Return →** Safe but with limited growth
+
 
 **3. Cluster Profiles**
 
