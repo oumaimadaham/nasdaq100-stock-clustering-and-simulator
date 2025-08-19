@@ -18,7 +18,7 @@ This project helps transform raw financial data into **actionable insights for d
 
 **1. Data Collection**
 
-- Stock prices downloaded using yfinance
+- Stock prices downloaded using **`yfinance`**
 
 - Period covered: 2022-01-01 to 2024-12-31
 
@@ -53,13 +53,14 @@ This project helps transform raw financial data into **actionable insights for d
 **1. Optimal Number of Clusters**
 
 The Elbow Method showed that **k=4** was the most suitable choice.
+
 ![Elbow Method](Results/elbow_method.png)
 
 
 **2. Stock Clusters (Risk vs Return)**
 
 Using PCA, stocks were projected in 2D space. Each color shows a different cluster:
-
+![Stock Clusters](Results/cluster_profiles_preview.png)
 
 - **Stable Performers →** Consistent but moderate growth
 
