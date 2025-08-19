@@ -47,3 +47,53 @@ This project helps transform raw financial data into **actionable insights for d
 - Select duration (days)
 
 - See expected returns & cluster profile
+
+## Results & Outputs
+1. Optimal Number of Clusters
+
+The Elbow Method showed that k=4 was the most suitable choice.
+
+
+2. Stock Clusters (Risk vs Return)
+
+Using PCA, stocks were projected in 2D space. Each color shows a different cluster:
+
+
+Stable Performers → Consistent but moderate growth
+
+High Growth, High Risk → Potentially large gains but very volatile
+
+Speculative / Volatile → Extremely unstable, unpredictable stocks
+
+Defensive / Low Return → Safe but with limited growth
+
+**3. Cluster Profiles**
+
+The average characteristics of each cluster:
+
+
+- **Cluster 0:** Moderate growth with balanced volatility
+
+- **Cluster 1:** Risky with negative average return
+
+- **Cluster 2:** Very high growth potential but very volatile
+
+- **Cluster 3:** Defensive, safer stocks with low but steady returns
+
+**4. Investment Simulator**
+
+The interactive simulator allows you to test investment strategies:
+
+Input investment amount (e.g., $10,000)
+
+Select one or more stocks
+
+Choose investment duration (days)
+
+See expected future value based on annualized return
+
+Example:
+
+$10,000 in AAPL (Defensive / Low Return) over 252 days may yield ~$12,160
+
+$10,000 in NVDA (High Growth, High Risk) could yield much higher, but with more volatility
