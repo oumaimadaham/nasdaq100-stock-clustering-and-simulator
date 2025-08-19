@@ -48,27 +48,26 @@ This project helps transform raw financial data into **actionable insights for d
 
 - See expected returns & cluster profile
 
-  Built With
+## Built With
 
 This project was developed entirely in Python, using:
 
-Pandas
+ - **Pandas**
  – data manipulation
 
-NumPy
+- **NumPy**
  – numerical calculations
 
-yfinance
+- **yfinance**
  – stock data fetching
 
-Scikit-learn
+- **Scikit-learn**
  – clustering & scaling
 
-Matplotlib
- / Seaborn
+- **Matplotlib / Seaborn**
  – visualization
 
-ipywidgets
+- **ipywidgets**
  – interactive simulator
 
 ## Results & Outputs
