@@ -84,18 +84,18 @@ The average characteristics of each cluster:
 
 **4. Investment Simulator**
 
-The interactive simulator allows you to test investment strategies:
+The interactive simulator allows you **to test investment strategies:**
 
-Input investment amount (e.g., $10,000)
+- Input investment amount (e.g., $10,000)
 
-Select one or more stocks
+- Select one or more stocks
 
-Choose investment duration (days)
+- Choose investment duration (days)
 
-See expected future value based on annualized return
+- See expected future value based on annualized return
 
-Example:
+**Example:**
 
-$10,000 in AAPL (Defensive / Low Return) over 252 days may yield ~$12,160
+- $10,000 in AAPL (Defensive / Low Return) over 252 days may yield ~$1,216.00
 
-$10,000 in NVDA (High Growth, High Risk) could yield much higher, but with more volatility
+- $10,000 in NVDA (High Growth, High Risk) could yield much higher ~ $6,642.00, but with more volatility
