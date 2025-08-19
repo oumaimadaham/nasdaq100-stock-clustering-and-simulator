@@ -1,4 +1,4 @@
-# NASDAQ-100 Stock Clustering & Investment Simulator
+# NASDAQ-100 Stock Clustering & Investment Simulator Using Python
 
 ## Why This Project?
 
@@ -47,6 +47,29 @@ This project helps transform raw financial data into **actionable insights for d
 - Select duration (days)
 
 - See expected returns & cluster profile
+
+  Built With
+
+This project was developed entirely in Python, using:
+
+Pandas
+ – data manipulation
+
+NumPy
+ – numerical calculations
+
+yfinance
+ – stock data fetching
+
+Scikit-learn
+ – clustering & scaling
+
+Matplotlib
+ / Seaborn
+ – visualization
+
+ipywidgets
+ – interactive simulator
 
 ## Results & Outputs
 
