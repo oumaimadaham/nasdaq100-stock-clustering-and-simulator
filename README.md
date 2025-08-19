@@ -98,6 +98,9 @@ The interactive simulator allows you **to test investment strategies:**
 
 **Example:**
 
+![Simulator](results/investment_simulator.png)
+
+
 - $10,000 in AAPL (Defensive / Low Return) over 252 days may yield ~$1,216.00
 
 - $10,000 in NVDA (High Growth, High Risk) could yield much higher ~ $6,642.00, but with more volatility
